@@ -1,5 +1,1 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Finance Tracker berbasis website menawarkan solusi praktis untuk pencatatan keuangan harian secara efisien dan fleksibel melalui browser. Pengguna dapat mencatat transaksi, mengelompokkannya ke dalam kategori, serta menambahkan catatan penting. Data keuangan ditampilkan dalam bentuk grafik bulanan yang mudah dipahami. Aplikasi ini juga menyediakan fitur pengingat anggaran, yang akan memberi notifikasi otomatis saat pengeluaran mendekati atau melampaui batas yang telah ditentukan. Dengan fitur ini, pengguna dapat lebih bijak dalam mengelola dan merencanakan keuangannya.
